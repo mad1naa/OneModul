@@ -1,10 +1,9 @@
-﻿namespace Dars3
+﻿namespace _3Dars
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
             //1Exercise
 
             //for (var i = 1; i <= 20; i++)
@@ -205,8 +204,6 @@
 
                 }
             }
-
-
         }
     }
 }
