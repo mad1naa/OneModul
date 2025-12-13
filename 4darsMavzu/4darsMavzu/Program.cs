@@ -183,8 +183,6 @@ internal class Program
         var str = "Salom Dunyo! Hello World! G13 .net";
 
         Console.WriteLine(GetCountOfCapitalLetter(str));
-        Console.WriteLine(GetCountOfCapitalLetter(str));
-        Console.WriteLine(GetCountOfCapitalLetter(str));
 
     }
 }
